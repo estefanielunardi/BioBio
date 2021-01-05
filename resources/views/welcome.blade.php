@@ -18,7 +18,7 @@
                     <button type="button" class="btn btn-info col align-self-center text-dark" id="butonBiobio">BioBio</button>
                 </div>
                 <div>
-                    <button type="button" class="btn btn-warning col align-self-center text-dark" id="butonPlay">Play</button>
+                    <button type="button" class="btn btn-warning col align-self-center text-dark" id="butonPlay" href="{{ url('/levelOne') }}">Play</button>
                 </div>
             </div>
         </div>

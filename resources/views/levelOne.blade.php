@@ -19,7 +19,7 @@
 
         </div>
         <div id="containerContinuarNextLevel">
-
+            <button type="button" class="btn btn-success col align-self-center text-dark" >Continuar</button>
         </div>
     </div>
     
